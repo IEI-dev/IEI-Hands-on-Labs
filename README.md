@@ -5,5 +5,5 @@ This repository is a portal to various sample projects. It contains links to pro
 ## Repository List
 | Repository | Description      | Preview |  Complementary Materials |
 |-------:|:---------------------------------------------------:|:-------------:|:-----------|
-|[DGDevKit Installation Guide](https://github.com/IEI-dev/DGDevKit-Installation-Guide)|Complete step-by-step installation guide for a fresh new disk| <img src = "https://github.com/IEI-dev/DGDevKit-Installation-Guide/raw/master/image/3.png" width=300>  |   |
+|[DGDevKit Installation Guide](https://github.com/IEI-dev/DGDevKit-Installation-Guide)| Complete guide to install a fresh copy of OpenVINO + Ubuntu IoT on a IEI TANK XM811 + ARC Graphics Card. | <img src = "https://github.com/IEI-dev/DGDevKit-Installation-Guide/raw/master/image/3.png" width=300>  |   |
 |[Smart Meter Reader](https://github.com/IEI-dev/Smart-Meter-Reader)|Complete automatic meter reading application | <img src = "https://github.com/IEI-dev/Smart-Meter-Reader/raw/main/screenshot/68.png" width=300> | |
